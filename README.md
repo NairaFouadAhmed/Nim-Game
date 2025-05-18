@@ -13,6 +13,6 @@ This is a graphical version of the classic mathematical game **Nim**, built usin
 - 🖱️ Click-based UI for intuitive gameplay
 - 🔁 New Game & Exit options
 ---
-##💡 Game Rules
+## 💡 Game Rules
 - Players take turns removing one or more matches from only one row.
 - The player who removes the last match loses.
